@@ -9,6 +9,7 @@ namespace TestConsoleApp
             Console.Write("test 123");
             Console.WriteLine("Hello World!");
             Console.WriteLine("test 456");
+            Console.WriteLine("test 777");
         }
     }
 }
