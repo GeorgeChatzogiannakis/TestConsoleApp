@@ -11,6 +11,8 @@ namespace TestConsoleApp
             Console.WriteLine("test 456");
             Console.WriteLine("test 777");
             Console.WriteLine("test 11123");
+
+            Console.WriteLine("aaaa");
         }
     }
 }
